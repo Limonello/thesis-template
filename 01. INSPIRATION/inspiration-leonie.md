@@ -36,7 +36,7 @@ CHOLLET, Mona, Réinventer l'amour - Comment le patriarcat sabote les relations 
 
 LIGNON, Fanny (dir), Genre et jeux vidéo. Presses Universitaires du Midi: Toulouse, 2015, 264 p.
 
-### ARTICLES (à lire en ligne sur le réseau de l’UNIL ou Swisscovery => accès instit.):
+### ARTICLES:
 
 BURNETT, Hannah Eisler, Shame game: Romance novels and feminist shame, a mad lib for collective feeling. Routledge: Abingdon, 2013.
 
@@ -61,4 +61,28 @@ http://www.thefeministclub.nl/2022/02/25/remembering-pink-games-re-evaluating-th
 
 CIESLAK, Karolina, REPORT: Women and games - how moderne female gamer play?, try_evidence [en ligne]. 7 février 2022. [consulté le 16 avril 2023]. Disponible à l’adresse: https://tryevidence.com/blog/report-women-and-games-how-do-modern-female-gamers-play/
 
+### PODCASTS:
+
+Episode 47: Rachel Weil on Femicom and the Value of Preserving Classic « Girl » Video Games [podcast web]. Adam Ruins Everything [en ligne]. 7 mars 2018. [consulté le 17 avril 2023]. Disponible à l’adresse: https://maximumfun.org/episodes/adam-ruins-everything/adam-ruins-everything-episode-47-rachel-weil-femicom-and-value-preserving-clas/
+
 ## VISUELS
+
+A lot of visuals are available on: http://femicom.org/collection/images/
+
+## Amour sucré
+
+![](inspiration-leonie-images.md/amoursucre1.jpeg)
+
+![](inspiration-leonie-images.md/amoursucr%C3%A92.webp)
+
+## Mystic Messenger
+
+![](inspiration-leonie-images.md/Mystic-Messenger-Screenshots.jpg)
+
+## Sims
+
+![](inspiration-leonie-images.md/sims_2.jpg)
+
+## Pixel Chix
+
+[](inspiration-leonie-images.md/pixelchix.jpg.avif)

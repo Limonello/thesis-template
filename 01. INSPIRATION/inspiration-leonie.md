@@ -85,4 +85,4 @@ A lot of visuals are available on: http://femicom.org/collection/images/
 
 ## Pixel Chix
 
-[](inspiration-leonie-images.md/pixelchix.jpg.avif)
+![](inspiration-leonie-images.md/pixelchix.jpg)

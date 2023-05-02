@@ -14,9 +14,9 @@ Par ailleurs, je garde aussi une autre question qui vient aider au développemen
 
 ## Type de personnes à interviewer
 
-Comme un des aspects centraux de la question est le genre, il faudrait interviewer des personnes d'identités de genre variées. Les sources explorées jusqu'à maintenant se concentrent surtout sur les enfants et les adolescent-es. Aussi, j'aimerais me concentrer plutôt sur une population adulte entre 20 et 40 ans afin de voir si j'obtiens des résultats différents des populations plus jeunes décrites dans mes sources.
+Comme un des aspects centraux de la question est le genre, il faudrait interviewer des personnes d'identités de genre variées. Par ailleurs, les sources explorées jusqu'à maintenant se concentrent surtout sur les enfants et les adolescent-es. Aussi, j'aimerais me concentrer plutôt sur une population adulte entre 20 et 40 ans afin de voir si j'obtiens des résultats différents des populations plus jeunes décrites dans mes sources.
 
-Comme l'attribution de traits construits socialement ("les filles aiment le rose", ...) peut varier selon les pays, je me focaliserai probablement sur des personnes venant de Suisse et de pays proches culturellement de cette dernière.
+Comme l'attribution de traits stéréotypicaux selon le genre ("les filles aiment le rose", ...) peut varier selon les pays, je me focaliserai probablement sur des personnes venant de Suisse et de pays proches culturellement de cette dernière.
 
 Les personnes interviewées seront des joueureuses de jeux vidéos. La possibilité d'essayer d'interviewer des développeureuses de jeu vidéos est gardée en option pour le moment si elle se révèle pertinente pour la question.
 

@@ -23,6 +23,7 @@ Roleplay: incarnation d’un personnage par un joueur ou une joueuse, par exempl
 - Est-ce que le gameplay a un genre ?
 - « Qu’est-ce que cela fait de jouer à ce jeux vidéo ? Qu’est-ce que cela (nous) fait au genre ? » (Genre et jeux vidéo, p. 141)
 - Comment les jeux s’adressent-ils aux femmes ?
+- Est-ce que les jeux marketés/codés vers un genre se retrouvent bien entre les mains dudit genre visé ?
 
 ## 10 ACADEMIC RESOURCES:
 
@@ -34,11 +35,17 @@ BERRY, Vincent, Jeux vidéo et adolescence. Les Presses de L’Université Laval
 
 CHOLLET, Mona, Réinventer l'amour - Comment le patriarcat sabote les relations hétérosexuelles. Zones, 2021, 272 p.
 
+KAFAI, Yasmin Bettina [et autres], Beyond Barbie and Mortal Kombat, New Perspectives on Gender and Gaming. Cambridge, Massachusetts: The MIT Press
+
 LIGNON, Fanny (dir), Genre et jeux vidéo. Presses Universitaires du Midi: Toulouse, 2015, 264 p.
 
 ### ARTICLES:
 
+ANDLAUER, Leticia, Pursuing One’s Own Prince: Love’s Fantasy in Otome Game Contents and Fan Practice. University of Minnesota Press: 2018.
+
 BURNETT, Hannah Eisler, Shame game: Romance novels and feminist shame, a mad lib for collective feeling. Routledge: Abingdon, 2013.
+
+GIARD, Agnès, Il faut beaucoup d’amies pour aimer un bel homme. Pratiques de sociabilité autour des jeux de romance (Otome Games) au Japon. Presses Universitaires de France, 2019. [consulté le 2 mai 2023]. Disponible à l’adresse: https://www.cairn.info/revue-diogene-2019-1-page-107.htm
 
 GONG, An-Di, HUANG, Yi-Ting, Finding love in online games: Social interaction, parasocial phenomenon, and in-game purchase intention of female game players. Elsevier Ltd: Oxford, 2023.
 

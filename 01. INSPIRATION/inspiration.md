@@ -78,18 +78,18 @@ A lot of visuals are available on: http://femicom.org/collection/images/
 
 ## Amour sucré
 
-![](inspiration-leonie-images.md/amoursucre1.jpeg)
+![](inspiration-images.md/amoursucre1.jpeg)
 
-![](inspiration-leonie-images.md/amoursucr%C3%A92.webp)
+![](inspiration-images.md/amoursucr%C3%A92.webp)
 
 ## Mystic Messenger
 
-![](inspiration-leonie-images.md/Mystic-Messenger-Screenshots.jpg)
+![](inspiration-images.md/Mystic-Messenger-Screenshots.jpg)
 
 ## Sims
 
-![](inspiration-leonie-images.md/sims_2.jpg)
+![](inspiration-images.md/sims_2.jpg)
 
 ## Pixel Chix
 
-![](inspiration-leonie-images.md/pixelchix.jpg)
+![](inspiration-images.md/pixelchix.jpg)

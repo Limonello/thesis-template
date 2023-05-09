@@ -38,7 +38,7 @@ Sur quels critères choisissez-vous les jeux auxquels vous jouez ?
 
 Avez-vous déjà utilisés les jeux vidéos comme support d'exploration personnelle ? Pour explorer quoi ?
 
-Quelle relation entretenez-vous avec votre genre ? Comment le définisseriez-vous ?
+Quelle relation entretenez-vous avec votre genre ? Comment le définiriez-vous ?
 
 Est-ce que votre identité de genre ou expérience du genre a une influence dans votre manière de jouer ou choisir des jeux ? Pourquoi ? (à reformuler)
 

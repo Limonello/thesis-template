@@ -82,6 +82,8 @@ I made a list of games I already played to and some I need to test.
 
 Wondering if I should only focus on a certain type of video games.
 
+Some potential examples:
+
 Undertale (2015)
 
 ![](images/2023-31-05/undertale.jpeg)

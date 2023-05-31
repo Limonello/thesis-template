@@ -72,10 +72,27 @@ For you, what is a gender-neutral video game ? What could it be ?
 
 I didn't have time to do it yet but it will be very necessary to complete the interviews.
 
-### Game test on my own
+It would be between 30 minutes to 1 hour of gameplay for the participant and then a debrief about the experience.
+
+### Game test on my own
 
 I made a list of games I already played to and some I need to test.
 
 Wondering if I should only focus on a certain type of video games.
 
-## First results
+## First results (interviews)
+
+I interviewd 3 people in their 20's just to test the questions.
+
+Diversification needed for the next interviews.
+
+### Main obervations
+
+- Each people uses to play to a lot of different video games
+- Social seems to be an important factor
+- The last question about gender-neutral games was very interesting
+- Female/woman identifying and/or presenting people tend to avoid game with a sexist female characters. They are sensitive to female characters' treatment.
+- One of the participants (woman) had bad experience with male gamers about being a woman playing video game or her tastes in video games.
+- One of the participants (man), when he was younger, felt limitations playing to certain "girly" games.
+
+I may need to reformulate or add some new questions (espacially for the "gender" theme in the interview).

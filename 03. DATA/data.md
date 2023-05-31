@@ -82,6 +82,26 @@ I made a list of games I already played to and some I need to test.
 
 Wondering if I should only focus on a certain type of video games.
 
+Undertale (2015)
+
+![](images/2023-31-05/undertale.jpeg)
+
+Mystic Messenger (2016)
+
+![](images/2023-31-05/Mystic-Messenger-Screenshots.jpg)
+
+Coffee Talk (2020)
+
+![](images/2023-31-05/Coffee%20Talk.jpeg)
+
+Tsuki's Odyssey (2021)
+
+![](images/2023-31-05/Tsuki's%20odyssey.jpeg)
+
+Birth (2023)
+
+![](images/2023-31-05/Birth.jpeg)
+
 ## First results (interviews)
 
 I interviewd 3 people in their 20's just to test the questions.

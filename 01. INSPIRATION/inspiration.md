@@ -39,6 +39,8 @@ KAFAI, Yasmin Bettina [et autres], Beyond Barbie and Mortal Kombat, New Perspect
 
 LIGNON, Fanny (dir), Genre et jeux vidéo. Presses Universitaires du Midi: Toulouse, 2015, 264 p.
 
+PEYTAVIN, Lucile, Le coût de la virilité, ce que la France économiserait si les hommes se comportaient comme des femmes. Le Livre de Poche, 2023 (édition originale 2021), 192 p.
+
 ### ARTICLES:
 
 ANDLAUER, Leticia, Pursuing One’s Own Prince: Love’s Fantasy in Otome Game Contents and Fan Practice. University of Minnesota Press: 2018.
